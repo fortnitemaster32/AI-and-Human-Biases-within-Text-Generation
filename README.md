@@ -32,6 +32,7 @@ This project analyzes biases and differences between AI-generated and human-gene
 - pandas
 - matplotlib
 - ps. Just view main.ipynb within github
+
 Install dependencies with:
 ```
 pip install pandas matplotlib
