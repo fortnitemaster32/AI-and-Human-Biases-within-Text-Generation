@@ -1,6 +1,6 @@
 # HumanAi: AI vs Human Text Analysis
 
-This project analyzes biases and differences between AI-generated and human-generated text using a dataset from Kaggle. It focuses on lexical diversity, average word length, and average sentence length to compare the characteristics of both text types.
+This project analyzes biases and differences between AI-generated and human-generated text using a dataset from Kaggle. It focuses on properties of text to compare the characteristics of both text types.
 
 ## Dataset
 
@@ -31,7 +31,7 @@ This project analyzes biases and differences between AI-generated and human-gene
 - Python 3.x
 - pandas
 - matplotlib
-
+- ps. Just view main.ipynb within github
 Install dependencies with:
 ```
 pip install pandas matplotlib
